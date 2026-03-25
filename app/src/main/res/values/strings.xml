@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="groups">Groups</string>
+    <string name="profile">Profile</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="owes_me">Owes Me</string>
+    <string name="i_owe">I Owe</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="person_name">Person Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="no_groups">No groups yet</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="theme_settings">Theme Settings</string>
+</resources>
